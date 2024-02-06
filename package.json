@@ -12,5 +12,8 @@
     "javascript"
   ],
   "author": "Jhanvi Shah",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
